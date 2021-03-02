@@ -1,0 +1,3 @@
+git fetch = sync ( refresh local & on line  branches' status)
+git pull = pull a branch to your local computer
+
